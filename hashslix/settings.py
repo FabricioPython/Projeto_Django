@@ -170,9 +170,9 @@ CRISPY_TEMPLATE_PACK = 'bootstrap5'
 
 
 CLOUDINARY_STORAGE = {
-    'CLOUD_NAME': 'hiucshtnq',
-    'API_KEY': '394737566399614',
-    'API_SECRET': 'U89NyeNO1L7WGjQyigKW0zhpDzM'
+    'CLOUD_NAME': 'hiuc####',
+    'API_KEY': '39473756#####',
+    'API_SECRET': 'U89NyeNO1L7WGjQy#######'
 }
 
 
