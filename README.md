@@ -1,5 +1,5 @@
-# Porjeto_Django
-site feito com Django de aprendizagem de programação
+# Projeto_Django
+Site feito com Django de aprendizagem de programação
 Esse Projeto de Django eu tive a oportunidade de fazer na Hastag Treinamentos com o professor Lira.
 
 
@@ -13,3 +13,7 @@ aqui vai o link do site que está no ar:
 Do zero ao Deploy.
 
 https://plataformatec.herokuapp.com/
+
+
+
+Em manutenção.
