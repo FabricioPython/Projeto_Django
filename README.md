@@ -6,10 +6,6 @@ Esse Projeto de Django eu tive a oportunidade de fazer na Hastag Treinamentos co
 
 Achei fantástico porque pude perceber como o Django é altamente organizado e já vem com diversas funcionalidades prontas que facilitam na hora de construir um site e integrar as funcionalidades.
 
-Do zero ao Deploy.
-
 https://plataformatec.herokuapp.com/ 
-
-
 
 Em manutenção.
